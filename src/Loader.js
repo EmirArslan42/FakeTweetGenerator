@@ -9,6 +9,7 @@ const AvatarLoader = (props) => (
     viewBox="0 0 60 48"
     backgroundColor="#333"
     foregroundColor="#444"
+    uniqueKey="avatar-loader"
     {...props}
   >
     <rect x="0" y="56" rx="3" ry="3" width="410" height="6" /> 
